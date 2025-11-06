@@ -178,8 +178,15 @@ npm run preview    # Previsualiza la build de producción
 
 Proyecto desarrollado como parte de un ejercicio práctico de React, consumo de APIs y navegación con React Router.
 
+## 🌐 Enlaces del Proyecto
 
-## 🔗 Enlaces
+- **🚀 Deploy en Vercel**: [https://fakestore-react-dde5lmb33-juans-projects-4f9c141b.vercel.app](https://fakestore-react-dde5lmb33-juans-projects-4f9c141b.vercel.app)
+- **📁 Repositorio GitHub**: [https://github.com/JuanAguirre10/FakeStore-Eval03](https://github.com/JuanAguirre10/FakeStore-Eval03)
+- **🎥 Video Demostración**: [Próximamente]
+
+---
+
+## 🔗 Otros enlaces
 
 - [FakeStore API Documentation](https://fakestoreapi.com/docs)
 - [React Documentation](https://react.dev)
